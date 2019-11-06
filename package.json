@@ -1,7 +1,7 @@
 {
-  "name": "strapi-provider-upload-aws-s3-env",
+  "name": "strapi-provider-upload-aws-s3-custom-config",
   "version": "3.0.0",
-  "description": "AWS S3 provider for strapi upload with environment support",
+  "description": "AWS S3 provider for strapi upload with custom configuration support",
   "homepage": "http://strapi.io",
   "keywords": [
     "upload",

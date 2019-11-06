@@ -1,4 +1,7 @@
-# strapi-provider-upload-s3
+# strapi-provider-upload-s3-custom-config
+
+Forked from https://github.com/strapi/strapi
+Package: https://github.com/strapi/strapi/tree/v3.0.0-beta.17.5/packages/strapi-provider-upload-aws-s3
 
 ## Resources
 
